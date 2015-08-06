@@ -1,0 +1,8 @@
+* Is the Github documentation - commits and README - thorough and descriptive?
+Creating a README for this project would reveal the mystery.  I can see why you went with none.
+
+* Is there good spec coverage?
+Possibly.  At this point, I am simply offering sample text for this review.
+
+* Is the application logic clear and easy to navigate?
+Going to go add some comments sprinkled throughout the files now.  Let's see how it goes...
